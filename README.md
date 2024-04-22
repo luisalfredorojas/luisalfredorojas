@@ -62,28 +62,16 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/peladolampara/qa-project-07-es">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peladolampara&repo=qa-project-07-es&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://github.com/peladolampara/qa-project-07-es">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peladolampara&repo=qa-project-06-es&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+<a href="https://github.com/peladolampara/Qhapaq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peladolampara&repo=peladolampara/Qhapaq&theme=tokyonight" />
 </a>
 
 ### My WakaTime Stats 📊:

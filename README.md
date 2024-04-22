@@ -71,7 +71,7 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 </a>
 
 <a href="https://github.com/peladolampara/Qhapaq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peladolampara&repo=Qhapaq&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peladolampara&repo=cypress-qa-project&theme=tokyonight" />
 </a>
 
 ### My WakaTime Stats 📊:

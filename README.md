@@ -18,7 +18,7 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 </summary>
   <br/>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,csharp,pycharm,vscode,selenium,cypress,postman,mysql,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=py,cs,pycharm,vscode,selenium,cypress,postman,mysql,html,css,js,ts" />
   </a>
 </details>
 

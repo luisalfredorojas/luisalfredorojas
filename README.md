@@ -18,7 +18,7 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 </summary>
   <br/>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pycharm,selenium,cypress,postman,mysql,vscode,html,css,ts" />
+    <img src="https://skillicons.dev/icons?i=py,csharp,pycharm,vscode,selenium,cypress,postman,mysql,html,css,js,ts" />
   </a>
 </details>
 
@@ -30,11 +30,11 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 <br/>
 
 <a href="https://github.com/Peladolampara">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="Luis github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
 <a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Luis Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>

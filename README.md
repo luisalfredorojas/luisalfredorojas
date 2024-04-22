@@ -5,8 +5,8 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 - 🔭 I’m currently working as a CMS Editor & QA for a multinational company.
-- 🌱 I’m currently python and QA automation
-- 👯 I’m looking to collaborate in QA projects
+- 🌱 I’m currently practicing and learning python and QA automation
+- 👯 I’m looking to collaborate in manual and automation QA projects
 
 <br/>
 

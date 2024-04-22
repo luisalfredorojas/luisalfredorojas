@@ -15,13 +15,15 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 <br/>
 
 ---
+Languages and Tools🛠:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <details>
 <summary>
-Languages and Tools🛠:
+
 </summary>
   <br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </details>
 
 ---

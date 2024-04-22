@@ -16,16 +16,13 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 
 ---
 
-
-
-
 <details>
 <summary>
  Languages and Tools🛠:
 </summary>
   <br/>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,pycharm,selenium,cypress,postman,charles,sql,vscode,drupal,html,css,ts" />
   </a>
 </details>
 

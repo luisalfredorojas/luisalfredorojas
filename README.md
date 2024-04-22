@@ -7,9 +7,6 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 - 🔭 I’m currently working as a CMS Editor & QA for a multinational company.
 - 🌱 I’m currently python and QA automation
 - 👯 I’m looking to collaborate in QA projects
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=peladolampara.peladolampara)
 
 <br/>
 

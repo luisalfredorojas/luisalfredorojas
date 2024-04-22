@@ -1,4 +1,3 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
 
 ### About me🧑:
 Throughout my professional career, I have been able to acquire diverse knowledge and skills that have enabled me to excel within the workplace environment. My university education is a blend of technology and business administration, which allows me to maintain a peripheral vision of the company's needs. I am passionate about process optimization, technology, project management, and leadership.
@@ -50,11 +49,11 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 ### Github Activity ✔:
 
 <a href="https://github.com/Peladolampara">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peladolampara&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/Peladolampara">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=peladolampara&show_icons=true&theme=tokyonight&line_height=27" alt="Luis's github stats"/>
 </a>
 
 <br/>

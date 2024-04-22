@@ -74,9 +74,3 @@ Throughout my professional career, I have been able to acquire diverse knowledge
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peladolampara&repo=cypress-qa-project&theme=tokyonight" />
 </a>
 
-<div align="center">
-  
-### Show ❤️ by 🌟 my [repositories](https://github.com/peladolampara?tab=repositories)!
-
-</div>
------

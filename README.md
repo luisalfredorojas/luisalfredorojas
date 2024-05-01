@@ -29,7 +29,7 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 
 <br/>
 
-<a href="https://github.com/Peladolampara">
+<a href="https://github.com/luisalfredorojas">
   <img align="left" alt="Luis github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
@@ -45,12 +45,12 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Peladolampara">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peladolampara&theme=tokyonight" />
+<a href="https://github.com/luisalfredorojas">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalfredorojas&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Peladolampara">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=peladolampara&show_icons=true&theme=tokyonight&line_height=27" alt="Luis's github stats"/>
+<a href="https://github.com/luisalfredorojas">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisalfredorojas&show_icons=true&theme=tokyonight&line_height=27" alt="Luis's github stats"/>
 </a>
 
 <br/>
@@ -59,15 +59,15 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 
 ### My Projects ✨:
   
-<a href="https://github.com/peladolampara/qa-project-07-es">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peladolampara&repo=qa-project-07-es&theme=tokyonight" />
+<a href="https://github.com/luisalfredorojas/qa-project-07-es">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalfredorojas&repo=qa-project-07-es&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/peladolampara/qa-project-07-es">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peladolampara&repo=qa-project-06-es&theme=tokyonight" />
+<a href="https://github.com/luisalfredorojas/qa-project-07-es">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalfredorojas&repo=qa-project-06-es&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/peladolampara/Qhapaq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peladolampara&repo=cypress-qa-project&theme=tokyonight" />
+<a href="https://github.com/luisalfredorojas/Qhapaq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalfredorojas&repo=cypress-qa-project&theme=tokyonight" />
 </a>
 

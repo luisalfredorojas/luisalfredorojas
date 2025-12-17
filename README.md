@@ -60,15 +60,15 @@ Throughout my professional career, I have been able to acquire diverse knowledge
 ### My Projects ✨:
 
 <a href="https://github.com/luisalfredorojas/proyectoDeliGourment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalfredorojas&repo=qa-project-07-es&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalfredorojas&repo=proyectoDeliGourment&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/luisalfredorojas/istqb-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalfredorojas&repo=qa-project-07-es&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalfredorojas&repo=istqb-v2&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/luisalfredorojas/weddingProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalfredorojas&repo=qa-project-07-es&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalfredorojas&repo=weddingProject&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/luisalfredorojas/qa-project-07-es">
